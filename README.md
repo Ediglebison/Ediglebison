@@ -20,7 +20,7 @@
 - ## GitHub Stats:
 <div>
  <a href="https://github.com/Ediglebison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ediglebison&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediglebison&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ediglebison&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediglebison&layout=compact&langs_count=16&theme=gotham"/>
  <a/>
 </div>
