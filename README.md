@@ -12,6 +12,9 @@
   <a href = "mailto: ediglebison@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23E94134?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href = "https://ediglebison.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-GitHub.io-black?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
  </div>
  
 - ## GitHub Stats:
