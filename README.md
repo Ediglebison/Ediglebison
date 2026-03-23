@@ -1,6 +1,6 @@
 
 <h1 align="center">Opa blz? 👋, Meu nome é Ediglebison</h1>
-<h3 align="center">Sou um estudante de programação</h3>
+<h3 align="center">Sou um mero estudante de programação</h3>
 
 <p align="left">
 </p>
